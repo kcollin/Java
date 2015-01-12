@@ -7,6 +7,7 @@ public class GitTest {
 	    System.out.println("Git is fun");
 	    System.out.println("Git is fun too.....");
 
+	    System.out.println("Fixes done in TestErrorFix branch");
 	}
 
 }
