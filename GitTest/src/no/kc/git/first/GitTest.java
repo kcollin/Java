@@ -10,7 +10,9 @@ public class GitTest {
 	    Display d = new Display();
 	    d.display();
 
-
+	    Test t = new Test();
+	    t.test();
+	    
 	    System.out.println("More Fixes done in TestErrorFix branch");
 
 	}
