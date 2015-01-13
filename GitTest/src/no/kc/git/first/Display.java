@@ -7,4 +7,9 @@ public class Display {
 		
 		System.out.println("displayData branch added class");
 	}
+	
+	public void cooperation(){
+		
+		System.out.println("cooperating with team");
+	}
 }

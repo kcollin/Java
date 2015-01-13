@@ -8,7 +8,7 @@ public class GitTest {
 	    System.out.println("Git is fun too.....");
 	    
 	    Display d = new Display();
-	    d.display();
+	    d.cooperation();
 
 	    Test t = new Test();
 	    t.test();
