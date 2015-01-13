@@ -12,4 +12,9 @@ public class Display {
 		
 		System.out.println("cooperating with team");
 	}
+	
+	public void conflict(){
+		
+		System.out.println("conflicting methods  with other teammember");
+	}
 }
