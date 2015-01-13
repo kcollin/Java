@@ -9,7 +9,7 @@ public class GitTest {
 	    
 	    System.out.println("Display 2....");
 
-	    System.out.println("Fixes done in TestErrorFix branch");
+	    System.out.println("More Fixes done in TestErrorFix branch");
 	}
 
 }
