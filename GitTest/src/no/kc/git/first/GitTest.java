@@ -16,7 +16,7 @@ public class GitTest {
 	    System.out.println("More Fixes done in TestErrorFix branch");
 	    
 	    TestConflict t1 = new TestConflict();
-	    t1.conflict();;
+	    t1.conflict_too();;
 	}
 
 }

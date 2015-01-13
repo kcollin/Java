@@ -11,7 +11,7 @@ public class TestConflict {
 		
 		System.out.println("cooperating with team");
 	}
-	public void conflict(){
+	public void conflict_too(){
 		
 		System.out.println("conflict with team");
 	}
