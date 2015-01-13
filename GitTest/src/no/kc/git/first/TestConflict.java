@@ -15,4 +15,10 @@ public class TestConflict {
 		
 		System.out.println("conflict with team");
 	}
+	
+	
+	public void conflict_three(){
+		
+		System.out.println("conflict with team");
+	}
 }
