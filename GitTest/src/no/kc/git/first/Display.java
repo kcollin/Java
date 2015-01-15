@@ -16,4 +16,8 @@ public class Display {
 		
 		System.out.println("conflict with team");
 	}
+	public void conflict2(){
+		
+		System.out.println("conflict with team");
+	}
 }
