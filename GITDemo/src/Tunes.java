@@ -63,6 +63,8 @@ public class Tunes {
        music.removeCD("Desire", "Bob Dylan");
        System.out.println(music);
        
+	    System.out.println("Changing two different projects, does it work ?"); 
+       
    }
 
 }
